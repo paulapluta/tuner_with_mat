@@ -1,5 +1,4 @@
 # TESTING GIT (1)
-# TESTING GIT (2)
 
 # Q: Po co na początku skryptów dodaje się coś takiego i czy/kiedy to jest potrzebne: "#! /usr/bin/..."?
 # A: Żeby można było to uruchomić poleceniem w linii komend. Dojdziemy do tego.
